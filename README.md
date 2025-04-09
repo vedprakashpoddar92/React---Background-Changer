@@ -1,12 +1,35 @@
-# React + Vite
+🎨 Background Color Changer
+A simple and interactive React application that allows users to change the background color of the page by clicking on different color buttons.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠 Tech Stack
+React – A JavaScript library for building user interfaces
 
-Currently, two official plugins are available:
+Tailwind CSS – A utility-first CSS framework for styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Project Background
+The Background Color Changer project was created as a fun and practical way to explore the power of React state management and Tailwind CSS utilities. It demonstrates how UI interactivity can be achieved with clean, reusable components and modern styling techniques.
 
-## Expanding the ESLint configuration
+✨ Features
+Click buttons to change the background color
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive and minimalist UI
+
+Built with functional components and React Hooks
+
+Styled using Tailwind CSS utility classes
+
+📦 Getting Started
+Clone the repository
+
+git clone https://github.com/vedprakashpoddar92/React---Background-Changer.git
+cd background-color-changer
+Install dependencies
+
+npm install
+Start the development server
+
+npm run dev
+Open http://localhost:3000 in your browser to see it in action.
+
+🖼️ Example
+![Alt text](image.png)
